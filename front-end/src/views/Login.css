@@ -1,0 +1,27 @@
+.login-form {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  margin-top: 1%;
+  height: 100%;
+  text-align: left;
+}
+
+.loginButton {
+  width: 100%;
+  max-width: 330px;
+  margin-top: 10px;
+}
+
+Input {
+  margin-bottom: 10px;
+}
+
+.errorMsg {
+  width: 100%;
+  max-width: 330px;
+  margin-left: 35%;
+  margin-top: 1%;
+  background-color: #e6888f;
+}
